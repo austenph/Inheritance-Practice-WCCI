@@ -1,1 +1,6 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\W4D1 Inheritance\W4D1 Inheritance\bin\Debug\W4D1 Inheritance.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W4D1 Inheritance\W4D1 Inheritance\bin\Debug\W4D1 Inheritance.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W4D1 Inheritance\W4D1 Inheritance\bin\Debug\W4D1 Inheritance.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W4D1 Inheritance\W4D1 Inheritance\obj\Debug\W4D1 Inheritance.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W4D1 Inheritance\W4D1 Inheritance\obj\Debug\W4D1 Inheritance.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W4D1 Inheritance\W4D1 Inheritance\obj\Debug\W4D1 Inheritance.pdb
