@@ -35,9 +35,9 @@ namespace W4D1_Inheritance
                 this.color = color;
             }
 
-            public Animal(int legs, int size, int weight)
+            public Animal(int size, int weight)
             {
-                this.legs = legs;
+                this.legs = 4;
                 this.size = size;
                 this.weight = weight;
             }
@@ -55,7 +55,11 @@ namespace W4D1_Inheritance
                 Console.WriteLine("This animal has " + legs + " legs");
                 Console.WriteLine("It's size is  " + size);
                 Console.WriteLine("It weighs " + weight);
-                Console.WriteLine("And it's color is " + color + "\n");
+                Console.WriteLine("And it's color is " + color);
             }
+        protected void WhoAmI()
+        {
+            Console.WriteLine("I am an animal");
+        }
         }
      }
